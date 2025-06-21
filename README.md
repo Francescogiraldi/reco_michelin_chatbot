@@ -2,7 +2,6 @@
 
 Bienvenue sur **Chatbot Recommandation Michelin**, un assistant conversationnel basé sur une approche *Retrieval‑Augmented Generation* (RAG) qui aide les clients à choisir le pneu Michelin le plus adapté à leurs besoins.
 
-![Michelin chatbot banner](https://user-images.githubusercontent.com/000000/placeholder.png)
 
 ---
 
