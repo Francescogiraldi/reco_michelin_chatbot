@@ -9,8 +9,6 @@ A modern, intelligent chatbot for Michelin product recommendations using Retriev
 
 ## 📱 Application Interface
 
-![Michelin Tire Assistant Interface](https://github.com/user-attachments/assets/michelin-chatbot-interface.png)
-
 The application features a modern, intuitive interface with:
 - **🚗 Michelin Tire Assistant**: Clean, professional branding
 - **💬 Interactive Chat**: Natural language tire recommendations
