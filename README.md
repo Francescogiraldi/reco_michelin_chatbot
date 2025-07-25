@@ -1,4 +1,4 @@
-# 🚗 Michelin Recommendation Chatbot
+# 🚗 Recommendation Chatbot
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
@@ -10,7 +10,7 @@ A modern, intelligent chatbot for Michelin product recommendations using Retriev
 ## 📱 Application Interface
 
 The application features a modern, intuitive interface with:
-- **🚗 Michelin Tire Assistant**: Clean, professional branding
+- **🚗 Tire Assistant**: Clean, professional branding
 - **💬 Interactive Chat**: Natural language tire recommendations
 - **⚡ Quick Actions**: Pre-built examples for common queries
 - **🎛️ System Controls**: Real-time status monitoring and chat management
